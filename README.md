@@ -3,7 +3,8 @@
 <p align="center">
   <strong align="center">Doom Fire Algorithm</strong>
 </p>
-</h1> 
+</h1>
+
 <br>
 
 <p align="center">
